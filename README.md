@@ -1,5 +1,7 @@
 # Unity_RTS_Camera
-Provides a simple script with full RTS-Camera functionality for Unity. The camera uses rigidbody physics to move and accelerate/decelerate.
+
+Provides a simple script with full RTS-Camera functionality for Unity3D. 
+The camera uses rigidbody physics to move and accelerate/decelerate and allows movement, turning and zoom.
 
 ## Controls ##
 
